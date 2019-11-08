@@ -1,0 +1,22 @@
+{
+  "name": "masterlemon7_modulo_02_languages",
+  "version": "0.0.1",
+  "description": "",
+  "keywords": [
+    "lemoncode",
+    "master",
+    "javascript",
+    "typescript"
+  ],
+  "license": "Blue Oak",
+  "author": "Jose Alcántara",
+  "main": "index.html",
+  "scripts": {
+    "start": "lite-server -c bs-config.json"
+  },
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "peerDependencies": {},
+  "devDependencies": {}
+}
